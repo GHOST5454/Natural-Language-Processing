@@ -21,7 +21,7 @@ The study of natural language processing has been around for more than 50 years 
       a.stemmer
       b.lemmetizer
 
-###3. Types of Vectorizer :
+### 3. Types of Vectorizer :
    It tell's us how we can vectorize the sentences.
    
    **There are 2 types of vectorizing methods.**
