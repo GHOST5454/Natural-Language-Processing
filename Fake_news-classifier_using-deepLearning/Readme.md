@@ -1,4 +1,4 @@
-####Fake News Classifier Using DeepLearning :
+#### Fake News Classifier Using DeepLearning :
 
 **To run this file you need following Libs :**
 
